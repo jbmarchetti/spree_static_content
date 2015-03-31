@@ -19,10 +19,11 @@ fr:
         visible: Visible
     models:
       spree/page:
-        few: Pages
-        many: Pages
-        one: Page
-        other: Pages
+        # blank: Page
+        # few: Pages
+        # many: Pages
+        # one: Page
+        # other: Pages
   spree:
     admin:
       tab:
